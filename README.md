@@ -38,3 +38,6 @@
 
 # 3. Exit the Program:
 # * During the saga selection menu, choose option 9 to quit the program. Alternatively, type exit during playback to stop the current track and exit.
+
+# NOTE:
+# In order to make the music player functional, you need to copy the path of each .wav songs listed on each folder and then paste the copied path in the switch statement. Thank you!
